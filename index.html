@@ -9,7 +9,12 @@
 <body>
   <div class="container">
     <h1>AI Content Planner</h1>
-    <input type="text" id="contentType" placeholder="Escribe tipo de contenido (ej: fitness, tecnología, motivacional)" />
+      <select id="contentType">
+        <option value="motivacional">Motivacional</option>
+        <option value="tecnología">Tecnología</option>
+        <option value="fitness">Fitness</option>
+        <option value="general">General</option>
+      </select>
     <button onclick="generateIdea()">Generar idea</button>
     <div id="resultArea"></div>
   </div>
