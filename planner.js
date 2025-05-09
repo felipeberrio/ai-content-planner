@@ -1,23 +1,38 @@
 const ideas = {
-  motivacional: [
-    "Comparte una frase poderosa con fondo tipo 'Reels'.",
-    "Cuenta una historia personal de superación en menos de 60 segundos.",
-    "Graba un día tuyo con voz en off inspiradora.",
+  athlete: [
+    "Graba tu entrenamiento más intenso del día.",
+    "Comparte una lección mental que te ha enseñado el deporte.",
+    "Haz un video de tu progreso físico mes a mes."
   ],
-  tecnología: [
-    "Haz un resumen de una herramienta IA nueva.",
-    "Comparte un truco de productividad con apps.",
-    "Explica en 1 minuto una tendencia tech como ChatGPT o blockchain.",
+  music: [
+    "Comparte el beat que te está inspirando esta semana.",
+    "Haz un mini video tocando algo en vivo o mezclando.",
+    "Cuenta cómo una canción te cambió la vida."
   ],
-  fitness: [
-    "Graba tu rutina de mañana con música.",
-    "Explica una técnica de ejercicio que pocos usan.",
-    "Comparte tu transformación física con voz emocional.",
+  engineer: [
+    "Explica un concepto técnico difícil de forma simple.",
+    "Muestra una solución creativa a un problema real.",
+    "Comparte tu espacio de trabajo o herramientas favoritas."
+  ],
+  travel: [
+    "Haz un top 3 de lugares que te marcaron.",
+    "Muestra cómo empacas tu mochila para un viaje.",
+    "Cuenta una historia loca de tu viaje más inesperado."
+  ],
+  creator: [
+    "Haz un behind-the-scenes de cómo grabas o editas.",
+    "Comparte tus herramientas favoritas para crear contenido.",
+    "Explica por qué empezaste a crear contenido y qué buscas lograr."
+  ],
+  learner: [
+    "Cuenta lo más valioso que aprendiste esta semana.",
+    "Recomienda un libro, curso o canal que te está ayudando.",
+    "Haz un mini tutorial explicando algo que acabas de entender."
   ],
   general: [
-    "Haz un detrás de cámaras de tu proceso creativo.",
-    "Comparte una reflexión rápida que tu audiencia necesite oír.",
-    "Lanza una pregunta profunda que invite a comentar.",
+    "Haz una reflexión rápida sobre tu día.",
+    "Lanza una pregunta incómoda o profunda a tu audiencia.",
+    "Comparte una meta que te da miedo pero vas a perseguir."
   ]
 };
 
